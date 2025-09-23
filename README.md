@@ -1,2 +1,2 @@
-# InngPruebasCalculadora
+# IngPruebasCalculadora
 Calculadora en desktop
